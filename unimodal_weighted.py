@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 29 22:56:17 2025
-
-@author: LIUSI
-"""
 
 import torch
 import torch.nn.functional as F
