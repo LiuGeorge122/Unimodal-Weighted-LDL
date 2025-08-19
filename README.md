@@ -28,12 +28,11 @@ Tested on:
    https://huggingface.co/FinanceInc/datasets
 
    https://huggingface.co/zeroshot/datasets
+   datasets are includes in the "./data/" path.
 
    Five-label datasets:
 
-   https://nlp.stanford.edu/sentiment/
-
-   The datasets are placed in "./data/" path.
+   The datasets should be downloaded from https://nlp.stanford.edu/sentiment/.
 
 
 
