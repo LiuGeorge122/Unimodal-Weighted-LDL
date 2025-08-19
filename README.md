@@ -33,7 +33,7 @@ Tested on:
 
    Five-label datasets:
 
-   SST-5 datasets is recommended to be downloaded from https://nlp.stanford.edu/sentiment/. and get preprocessing. Here provides the version where we already preprocessed during the experiment.
+   SST-5 datasets is recommended to be downloaded from https://nlp.stanford.edu/sentiment/. Here provides the version where we already preprocessed during the experiment.
 
 
 
