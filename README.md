@@ -2,6 +2,7 @@
 
 This is a PyTorch implementation of the **Unimodal-Weighted Label Distribution Learning (LDL) approach**.  
 
+<img width="866" height="266" alt="uw_ldl" src="https://github.com/user-attachments/assets/ef998bc3-8a48-497a-b521-ae2e3931e436" />
 
 
 ---
