@@ -41,7 +41,7 @@ Tested on:
 
 See from the main.py code.
 
-Note that The RoBERTa and BERT versions differ only in terms of model application.
+Note that The RoBERTa and BERT versions differ only in terms of model application. Both the models are on the huggingface and can be downloaded locally.
 
 The run_grid_experiments function is used to do the grid search and can be expanded through the change of searching range.
 
