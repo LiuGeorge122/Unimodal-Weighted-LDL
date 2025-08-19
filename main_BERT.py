@@ -311,8 +311,8 @@ def evaluate_hyperparams(lam1, lam2, epochs=5, save_model=False):
 from statistics import mean, stdev
 
 def run_grid_experiments():
-    lam1_values = [2]
-    lam2_values = [0.5]
+    lam1_values = [0.5,1,1.5,2]
+    lam2_values = [0.5,1,1.5,2]
     num_runs = 10  
 
     results_summary = []
@@ -466,4 +466,5 @@ if __name__ == '__main__':
         epochs=15,
         learning_rate=1e-3,
         loss_fn=unimodal_weighted
+
     )
