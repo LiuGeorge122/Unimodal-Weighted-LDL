@@ -49,9 +49,9 @@ The run_grid_experiments function is used to do the grid search and can be expan
 ---
 
 ## Comparison Methods
-The major ethods includes:
+The major methods includes:
 
- mean-variance loss https://github.com/Herosan163/AgeEstimation
+ Mean-Variance loss https://github.com/Herosan163/AgeEstimation
 
 DLDL-v2 loss [gaobb/DLDL-v2: [IJCAI 2018\] Age Estimation Using Expectation of Label Distribution Learning](https://github.com/gaobb/DLDL-v2)
 
